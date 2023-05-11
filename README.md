@@ -1,2 +1,4 @@
 # odin_recipes
-nothing
+my first repo!
+hello odin
+
